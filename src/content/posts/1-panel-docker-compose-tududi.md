@@ -2,7 +2,7 @@
 author: Luoverse
 description: 基于 1Panel 与 Docker Compose 极速部署轻量级待办清单 Tududi
 draft: false
-pubDatetime: 2026-07-22
+pubDatetime: '2026-07-22'
 tags:
 - Blog
 title: 基于 1Panel 与 Docker Compose 极速部署轻量级待办清单 Tududi
