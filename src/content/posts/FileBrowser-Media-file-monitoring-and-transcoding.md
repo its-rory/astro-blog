@@ -7,7 +7,7 @@ featured: false
 draft: false
 tags: []
 ---
-本文档记录了基于&nbsp;Linux&nbsp;`inotify`&nbsp;机制实现的媒体自动化处理服务（`auto-rename.service`）。该服务用于在用户通过&nbsp;WebDAV（iOS&nbsp;原生文件管理/FE&nbsp;File&nbsp;Explorer）或&nbsp;FileBrowser&nbsp;Quantum&nbsp;网页端上传文件时，自动完成格式检测、HEIC&nbsp;转码、原图归档隔离以及按父目录序列化重命名。
+> 本文档记录了基于&nbsp;Linux&nbsp;(inotify)&nbsp;机制实现的媒体自动化处理服务（auto-rename.service）。该服务用于在用户通过&nbsp;WebDAV（iOS&nbsp;原生文件管理/FE&nbsp;File&nbsp;Explorer）或&nbsp;FileBrowser&nbsp;Quantum&nbsp;网页端上传文件时，自动完成格式检测、HEIC&nbsp;转码、原图归档隔离以及按父目录序列化重命名。
 
 ## 1.&nbsp;架构总览
 
